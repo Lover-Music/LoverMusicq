@@ -34,7 +34,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SPARTENX-OP/VirusMusicBot",
+    "https://github.com/Lover-Music/LoverMusicq",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -74,7 +74,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 
 
-STRING1 = getenv("STRING_SESSION2", "AQAo1tuJohjJpbgCbGVTuMfksGe3QdcHutlrgFfE8gBGzqIiSgnhy_0p5JZY4qS_lESFVdDPHuQJg6nS61nbm01mm6GcW4BgOLDTd_vYjdTSdYdsKTwxiWmld2mFPjmV1duqF3ffr0EdbhIS_fjPgSccAXkbf8x63MrHo4N8l7IyTJT3tJ12s_udqGIzRBolML0QCZXqowob6TGzviE8Vqy3izA2k_XT1htsn60WGINj_Zo3scYHP4gKRgcPYzCjlO_EF25267Ld_YyokPKYtzifmGaECj5ZZ-Mu4MW0JIEGKJdUSGod11cEXUqX7ufVYRL2ctW-Mh5CbOlYUJqjfF4pAAAAAV6DPFwA")
+STRING1 = getenv("STRING_SESSION2", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
